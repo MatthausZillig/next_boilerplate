@@ -1,5 +1,5 @@
 
-![Next Boilerplate](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+[Next Boilerplate](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
 
 
 ## What is inside?
