@@ -15,7 +15,10 @@
     }
   },
   "lint-staged": {
-    "src/**/*": "yarn eslint --fix"
+    "src/**/*": [
+      "yarn eslint --fix",
+      "yarn test --findRelatedTests --bail"
+    ]
   },
   "dependencies": {
     "next": "9.5.1",
