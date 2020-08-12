@@ -1,8 +1,7 @@
 
 ![Next Boilerplate](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [Next Boilerplate](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
+
 ## What is inside?
 
 This project uses lot of stuff as:
