@@ -1,5 +1,5 @@
 
-[Next Boilerplate](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
+### NEXT BOILERPLATE
 
 
 ## What is inside?
