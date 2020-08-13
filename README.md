@@ -2,7 +2,7 @@
 ### NEXT BOILERPLATE
 
 
-## What is inside?
+## :rocket: What is inside?
 
 This project uses lot of stuff as:
 
@@ -17,6 +17,10 @@ This project uses lot of stuff as:
 - [Husky](https://github.com/typicode/husky)
 
 ## Getting Started
+
+```bash
+yarn create next-app -e https://github.com/MatthausZillig/next_boilerplate/edit/master/README.md
+```
 
 First, run the development server:
 
