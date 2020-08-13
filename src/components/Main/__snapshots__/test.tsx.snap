@@ -1,22 +1,63 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
+.c0 {
+  width: 100%;
+  height: 100%;
+  background-color: #30336b;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+  overflow: hidden;
+}
+
+.c1 {
+  font-size: 2.5rem;
+  font-weight: light;
+  color: #fff;
+}
+
+.c2 {
+  font-size: 1.5rem;
+  font-weight: lighter;
+  color: #fff;
+  margin-top: 2rem;
+}
+
+.c3 {
+  margin-top: 5rem;
+  width: min(45rem,100%);
+}
+
 <main
-  class="styles__Wrapper-sc-1cs6c8-0 cWQcUb"
+  class="c0"
 >
   <h1
-    class="styles__Title-sc-1cs6c8-1 icYGxu"
+    class="c1"
   >
     Next Boilerplate
   </h1>
   <h2
-    class="styles__Description-sc-1cs6c8-2 gLIsoi"
+    class="c2"
   >
     ReactJS, TypeScript, NextJS and Styled Components
   </h2>
   <img
     alt="Uma desenvolvedora ao lado da palavra next.js"
-    class="styles__Illustration-sc-1cs6c8-3 ffIZls"
+    class="c3"
     src="/images/next.svg"
   />
 </main>
