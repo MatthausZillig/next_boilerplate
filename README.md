@@ -19,7 +19,7 @@ This project uses lot of stuff as:
 ## Getting Started
 
 ```bash
-yarn create next-app -e https://github.com/MatthausZillig/next_boilerplate/edit/master/README.md
+yarn create next-app -e https://github.com/MatthausZillig/next_boilerplate.git
 ```
 
 First, run the development server:
