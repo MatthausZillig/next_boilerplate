@@ -19,13 +19,13 @@ This project uses lot of stuff as:
 
 ## Getting Started
 
-```bash
-yarn create next-app -e https://github.com/MatthausZillig/next_boilerplate.git
-```
-
-First, run the development server:
+First install all dependencies and run the development server:
 
 ```bash
+yarn
+# or
+npm install
+
 npm run dev
 # or
 yarn dev
